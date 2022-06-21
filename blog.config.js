@@ -2,8 +2,7 @@
 const BLOG = {
   AUTHOR: 'jade', // 作者
   BIO: '一个爱折腾的鼠鼠罢了', // 作者简介
-  LINK: 'https://maybe-emerald
-  .vercel.app', // 网站地址
+  LINK: 'https://maybe-emerald.vercel.app', // 网站地址
   AVATAR: '/avatar.png', // 个人头像 默认取public目录下的avatar.png
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
